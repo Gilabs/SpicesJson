@@ -35,7 +35,7 @@
 
     "Iklan": [
         {
-        "status": "0",
+        "status": "1",
         "link": "https://play.google.com/store/apps/details?id=com.spices.ebooks",
         "pengaturan_iklan":"1",
         "iklan_splash":"1",
