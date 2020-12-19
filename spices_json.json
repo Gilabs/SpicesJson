@@ -23,7 +23,7 @@
 
     "Iklan": [
         {
-        "status": "0",
+        "status": "1",
         "link": "https://play.google.com/store/apps/details?id=com.spices.ebooks",
         "pengaturan_iklan":"1",
         "iklan_splash":"1",
@@ -36,7 +36,7 @@
         "fan_native_banner": "981545408591412_2870610639684870",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "interval": 3,
-        "version_app":7,
+        "version_app":9,
         "hpk_admob1":"",
         "hpk_admob2":"",
         "hpk_admob3":"",
