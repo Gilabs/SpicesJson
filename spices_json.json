@@ -18,6 +18,12 @@
     "judul":"Aerospace engineering",
     "image":"https://play-lh.googleusercontent.com/ls1j0v37OHz05o7qGBZF_8cqRIKq9MXs2ZSV9Yj2kyh9keNDXX9xJhHdyAfOUfdwPJw=s180-rw",
     "link":"https://play.google.com/store/apps/details?id=com.aerospaces.ebooks"
+  },
+  {
+    "id":4,
+    "judul":"Venomous Animals",
+    "image":"https://play-lh.googleusercontent.com/1t-cUoQ_tY1GVeNJSmTKk5DjgkSpfWMEHHdcW9AIlfjDleQiiyvYr8cYDicUhMATfL4=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.snake.ebooks"
   }
 ],
 
